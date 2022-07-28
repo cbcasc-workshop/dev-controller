@@ -1,0 +1,4 @@
+variables:
+- team: cbcasc-workshop
+- admin-user: knelldev-admin
+- manager-user: knelldev
